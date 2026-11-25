@@ -1,0 +1,81 @@
+Account_ID,Company_Name,Industry,Plan_Tier,Acquisition_Channel,Signup_Date,Monthly_MRR_USD,CAC_USD,Account_Status,Support_Tickets_90d
+ACC-1001,Apex Logistics,Logistics & Supply Chain,Enterprise,Outbound Sales,2025-01-12,2400,1800,Active,2
+ACC-1002,FinPulse Tech,FinTech,Growth,Paid Search,2025-01-18,850,650,Active,1
+ACC-1003,MediCore Health,HealthTech,Enterprise,LinkedIn Ads,2025-01-25,3200,2100,Active,4
+ACC-1004,ShopStream AI,E-Commerce,Starter,Organic Search,2025-02-03,250,120,Churned,7
+ACC-1005,CloudScale Ops,DevTools & SaaS,Growth,Organic Search,2025-02-10,950,180,Active,0
+ACC-1006,EduSpark Labs,EdTech,Starter,Paid Search,2025-02-14,250,410,Churned,5
+ACC-1007,NovaPay Global,FinTech,Enterprise,Outbound Sales,2025-02-22,4500,2900,Active,3
+ACC-1008,CargoSwift,Logistics & Supply Chain,Growth,LinkedIn Ads,2025-03-01,1100,780,Active,2
+ACC-1009,VitalCare Systems,HealthTech,Growth,Organic Search,2025-03-08,1200,210,Active,1
+ACC-1010,CartBoost,E-Commerce,Growth,Paid Search,2025-03-15,750,690,Active,3
+ACC-1011,CodeForge IO,DevTools & SaaS,Enterprise,Referral,2025-03-21,3800,400,Active,1
+ACC-1012,LearnBridge,EdTech,Growth,Organic Search,2025-03-29,650,190,Active,2
+ACC-1013,PropVault,Real Estate Tech,Starter,Paid Search,2025-04-04,300,480,Churned,6
+ACC-1014,LedgerFlow,FinTech,Growth,LinkedIn Ads,2025-04-11,1400,820,Active,1
+ACC-1015,FleetTrack Pro,Logistics & Supply Chain,Enterprise,Outbound Sales,2025-04-19,2900,1950,Active,2
+ACC-1016,BioSync Analytics,HealthTech,Enterprise,Outbound Sales,2025-04-26,4100,2600,Active,2
+ACC-1017,TrendBazaar,E-Commerce,Starter,Organic Search,2025-05-02,250,110,Active,1
+ACC-1018,DeployFast,DevTools & SaaS,Growth,Referral,2025-05-09,1150,250,Active,0
+ACC-1019,SkillNest,EdTech,Starter,Paid Search,2025-05-16,250,430,Churned,8
+ACC-1020,UrbanNest Realty,Real Estate Tech,Growth,LinkedIn Ads,2025-05-23,900,740,Active,2
+ACC-1021,PayMatrix,FinTech,Enterprise,Outbound Sales,2025-06-01,5000,3100,Active,1
+ACC-1022,RouteMaster,Logistics & Supply Chain,Growth,Paid Search,2025-06-08,950,720,Churned,5
+ACC-1023,PulseDiagnose,HealthTech,Growth,LinkedIn Ads,2025-06-14,1350,890,Active,1
+ACC-1024,PixelMart,E-Commerce,Growth,Organic Search,2025-06-21,800,160,Active,2
+ACC-1025,StackGuard,DevTools & SaaS,Enterprise,Outbound Sales,2025-06-28,4200,2400,Active,1
+ACC-1026,BrightMinds,EdTech,Growth,Referral,2025-07-05,700,150,Active,1
+ACC-1027,HomeLedger,Real Estate Tech,Starter,Organic Search,2025-07-12,300,140,Active,0
+ACC-1028,CreditWave,FinTech,Growth,Paid Search,2025-07-19,1250,810,Active,2
+ACC-1029,SupplyChainX,Logistics & Supply Chain,Enterprise,Outbound Sales,2025-07-26,3100,2050,Active,3
+ACC-1030,CareConnect,HealthTech,Starter,Paid Search,2025-08-02,350,520,Churned,6
+ACC-1031,RetailPulse,E-Commerce,Enterprise,Outbound Sales,2025-08-09,2600,1750,Active,2
+ACC-1032,APIStream,DevTools & SaaS,Growth,Organic Search,2025-08-16,1050,190,Active,1
+ACC-1033,ClassRoom360,EdTech,Starter,Organic Search,2025-08-23,250,130,Active,1
+ACC-1034,RealtyFlow,Real Estate Tech,Growth,Paid Search,2025-08-30,850,690,Churned,4
+ACC-1035,WealthBridge,FinTech,Enterprise,LinkedIn Ads,2025-09-06,4800,2750,Active,2
+ACC-1036,PortLogic,Logistics & Supply Chain,Growth,Organic Search,2025-09-13,1000,220,Active,0
+ACC-1037,MedVault,HealthTech,Enterprise,Outbound Sales,2025-09-20,3900,2500,Active,1
+ACC-1038,FlashCart,E-Commerce,Starter,Paid Search,2025-09-27,250,460,Churned,7
+ACC-1039,DevMetric,DevTools & SaaS,Enterprise,Referral,2025-10-04,3600,350,Active,0
+ACC-1040,TutorGrid,EdTech,Growth,LinkedIn Ads,2025-10-11,750,610,Active,2
+ACC-1041,LeaseSmart,Real Estate Tech,Enterprise,Outbound Sales,2025-10-18,2200,1650,Active,1
+ACC-1042,CoinClear,FinTech,Growth,Organic Search,2025-10-25,1300,240,Active,1
+ACC-1043,FreightLink,Logistics & Supply Chain,Starter,Paid Search,2025-11-01,300,490,Churned,5
+ACC-1044,HealthGrid,HealthTech,Growth,Referral,2025-11-08,1400,280,Active,0
+ACC-1045,BuyBox AI,E-Commerce,Growth,LinkedIn Ads,2025-11-15,900,670,Active,2
+ACC-1046,RepoPilot,DevTools & SaaS,Growth,Paid Search,2025-11-22,1100,740,Active,1
+ACC-1047,StudyFlow,EdTech,Starter,Organic Search,2025-11-29,250,115,Active,1
+ACC-1048,SkylineProps,Real Estate Tech,Starter,Paid Search,2025-12-06,300,470,Churned,6
+ACC-1049,TreasuryOS,FinTech,Enterprise,Outbound Sales,2025-12-13,5200,3200,Active,2
+ACC-1050,TranspoCore,Logistics & Supply Chain,Enterprise,LinkedIn Ads,2025-12-20,2800,1900,Active,1
+ACC-1051,ClinicSync,HealthTech,Growth,Organic Search,2025-12-27,1250,230,Active,1
+ACC-1052,OmniStore,E-Commerce,Enterprise,Outbound Sales,2026-01-04,2700,1850,Active,2
+ACC-1053,BugZero,DevTools & SaaS,Enterprise,Organic Search,2026-01-11,4000,310,Active,0
+ACC-1054,ExamPrep Pro,EdTech,Growth,Paid Search,2026-01-18,650,580,Churned,4
+ACC-1055,PropPulse,Real Estate Tech,Growth,Organic Search,2026-01-25,950,210,Active,1
+ACC-1056,QuickSettle,FinTech,Growth,Referral,2026-02-01,1500,300,Active,0
+ACC-1057,ColdChain AI,Logistics & Supply Chain,Growth,Outbound Sales,2026-02-08,1200,850,Active,1
+ACC-1058,NurseFlow,HealthTech,Enterprise,LinkedIn Ads,2026-02-15,3700,2350,Active,2
+ACC-1059,DropShip HQ,E-Commerce,Starter,Paid Search,2026-02-22,250,450,Churned,6
+ACC-1060,CloudPulse,DevTools & SaaS,Growth,LinkedIn Ads,2026-03-01,1250,790,Active,1
+ACC-1061,UniPortal,EdTech,Enterprise,Outbound Sales,2026-03-08,2100,1500,Active,2
+ACC-1062,EstateMetric,Real Estate Tech,Starter,Referral,2026-03-15,300,120,Active,0
+ACC-1063,VaultPay,FinTech,Enterprise,Outbound Sales,2026-03-22,4900,3000,Active,1
+ACC-1064,ShipFast Global,Logistics & Supply Chain,Enterprise,Outbound Sales,2026-03-29,3300,2150,Active,2
+ACC-1065,DocuMed,HealthTech,Growth,Paid Search,2026-04-05,1150,780,Active,2
+ACC-1066,BrandCart,E-Commerce,Growth,Referral,2026-04-12,850,200,Active,0
+ACC-1067,KubeScale,DevTools & SaaS,Enterprise,Outbound Sales,2026-04-19,4500,2600,Active,1
+ACC-1068,SkillForge,EdTech,Starter,Paid Search,2026-04-26,250,440,Churned,5
+ACC-1069,TenantOS,Real Estate Tech,Growth,LinkedIn Ads,2026-05-03,900,710,Active,1
+ACC-1070,RiskGuard Fin,FinTech,Growth,LinkedIn Ads,2026-05-10,1450,860,Active,1
+ACC-1071,AeroFreight,Logistics & Supply Chain,Growth,Referral,2026-05-17,1150,260,Active,0
+ACC-1072,BioTrack,HealthTech,Enterprise,Outbound Sales,2026-05-24,4200,2550,Active,2
+ACC-1073,MerchFlow,E-Commerce,Starter,Organic Search,2026-05-31,250,130,Active,1
+ACC-1074,LogStream,DevTools & SaaS,Growth,Organic Search,2026-06-07,1100,200,Active,0
+ACC-1075,CampusCloud,EdTech,Growth,Organic Search,2026-06-14,700,175,Active,1
+ACC-1076,BrokerHub,Real Estate Tech,Enterprise,Outbound Sales,2026-06-21,2400,1700,Active,2
+ACC-1077,AlphaLedger,FinTech,Enterprise,Outbound Sales,2026-06-28,5500,3300,Active,1
+ACC-1078,DockSync,Logistics & Supply Chain,Starter,Organic Search,2026-07-05,300,145,Active,1
+ACC-1079,CarePulse,HealthTech,Growth,LinkedIn Ads,2026-07-12,1300,840,Active,1
+ACC-1080,ShopWave,E-Commerce,Growth,Paid Search,2026-07-19,800,680,Churned,4
